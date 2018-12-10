@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="AtividadeJtsSvg:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/AtividadeJtsSvg_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="AtividadeJtsSvg/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="AtividadeJtsSvg" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
+          <element id="library" level="project" name="Maven: org.postgresql:postgresql:9.4-1200-jdbc41" />
+          <element id="library" level="project" name="Maven: com.github.dblock.waffle:waffle-jna:1.7" />
+          <element id="library" level="project" name="Maven: net.java.dev.jna:jna:4.1.0" />
+          <element id="library" level="project" name="Maven: net.java.dev.jna:jna-platform:4.1.0" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.7" />
+          <element id="library" level="project" name="Maven: com.google.guava:guava:18.0" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-simple:1.7.7" />
+          <element id="library" level="project" name="Maven: com.vividsolutions:jts:1.13" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
